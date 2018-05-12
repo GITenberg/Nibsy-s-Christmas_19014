@@ -1,0 +1,32 @@
+_repo: Nibsy-s-Christmas_19014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: Contents. -- Nibsy's Christmas. -- What the Christmas sun saw in the
+  tenements. -- Skippy of Scrabble alley.
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories, American'
+- !lcsh 'Tenement houses -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+title: Nibsy's Christmas
+url: http://www.gutenberg.org/ebooks/19014
